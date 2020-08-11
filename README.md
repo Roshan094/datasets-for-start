@@ -1,2 +1,2 @@
 # datasets-for-start
-adult
+Data sets to start with Machine Learning
